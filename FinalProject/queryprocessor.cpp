@@ -2,7 +2,7 @@
  * CSE 2341: Data Stuctures
  * 05/03/2015
  * Nate O'Toole
- * Kiko Whiteley
+ * Ashvin Asava
  **/
 
 #include "queryprocessor.h"
